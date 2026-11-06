@@ -1,0 +1,8 @@
+{
+  "name": "Lễ hội Katê & Di sản Văn hóa Chăm - E03",
+  "description": "Hồ sơ số Lễ hội Katê và văn hoá cộng đồng Chăm - Đề tài E03 Chương trình Thực tập sinh Đợt 15 FPT Polytechnic x IMTA TECH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
